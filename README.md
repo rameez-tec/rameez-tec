@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Rameez Abbas! 👋
 
-<!--
-**rameez-tec/rameez-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+- HTML, CSS, JavaScript, Bootstrap
+- Python, Django, C++
+- MySQL & Database Management
+- Machine Learning & AI
+- Automation & Basic Linux Commands
+
+### 🎥 Creative Skills
+- Photography & Videography
+- Video Capturing & Video Editing
+- Photo Editing
+- Social Media Management
+- Digital Content Creation
+
+### 🌱 Currently Learning
+- Full Stack Web Development
+- Machine Learning & Automation
+- Building Practical Projects
+
+### 🎯 My Goal
+To become a professional developer, build useful applications, and combine technology with creativity.
+
+### 🤝 Let's Connect
+- GitHub: https://github.com/rameez-tec
+- LinkedIn: Add your LinkedIn profile link here
+- TikTok: Add your TikTok profile link here
+
+⭐ Thanks for visiting my profile!
