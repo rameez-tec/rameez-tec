@@ -28,7 +28,7 @@ To become a professional developer, build useful applications, and combine techn
 
 ### 🤝 Let's Connect
 - GitHub: https://github.com/rameez-tec
-- LinkedIn: Add your LinkedIn profile link here
-- TikTok: Add your TikTok profile link here
+- LinkedIn: https://www.linkedin.com/in/rameez-abbas-43b1a5355?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Instagram: https://www.instagram.com/rameez_abbax?vrfl=MTVqaHlvdTZsN3FxcA%3D%3D&utm_source=qr
 
 ⭐ Thanks for visiting my profile!
